@@ -1,8 +1,8 @@
-(img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5cc8f19f840b164f7c7f55fe/1237abe9-6778-4a33-8fd3-5b358a4b13d7/humanity.jpg?format=1500w")
+[![MasterHead](https://ml4or22.github.io/images/ml4or_logo.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Moiz Ahmad</h1>
 <h3 align="center">I am a transportation & logistics engineer passionate about using Operations Researcher to solve real-world problems.</h3>
-<img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-kZCZGNEzu1w/X3dg3YW_BvI/AAAAAAAAGpY/9bMTDQKqLzwBxogATkKnm-NbQHu73vccwCLcBGAsYHQ/s576/image1.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5cc8f19f840b164f7c7f55fe/1237abe9-6778-4a33-8fd3-5b358a4b13d7/humanity.jpg?format=1500w">
 
 
 - 🌱 I’m currently learning **Deep learning based multi-stage optimization approaches for solving urban logistics problems.**
