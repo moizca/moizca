@@ -1,7 +1,7 @@
 [![MasterHead](https://ml4or22.github.io/images/ml4or_logo.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Moiz Ahmad</h1>
-<h3 align="center">I am a transportation & logistics engineer passionate about using Operations Researcher to solve real-world problems.</h3>
+<h3 align="center">I am a transportation & logistics engineer passionate about using Operations Research to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5cc8f19f840b164f7c7f55fe/1237abe9-6778-4a33-8fd3-5b358a4b13d7/humanity.jpg?format=1500w">
 
 
