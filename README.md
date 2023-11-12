@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Multi-stage optimization, transportation engineering & logistics.**
 
-- 📫 How to reach me **moizahmadnust@gmail.com**
+- 📫 How to reach me **moizahmadnust@gmail.com** & **2020msem506@student.uet.edu.pk**
 
 - ⚡ Fun fact **I think I am funny.**
 
