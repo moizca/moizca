@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reinforcement learning, multi-stage optimization and multi-agent software for large-scale supply chain management**
 
-- 💬 Ask me about **supply chain management, risk management, reinforcement learning, multi-stage optimization, multi-agent software**
+- 💬 Ask me about **supply chain management, reinforcement learning, multi-stage optimization, multi-agent software**
 
 - 📫 How to reach me **moizahmadnust@gmail.com** & **2020msem506@student.uet.edu.pk**
 
