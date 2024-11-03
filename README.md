@@ -1,17 +1,17 @@
 [![MasterHead](https://ml4or22.github.io/images/ml4or_logo.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Moiz Ahmad</h1>
-<h3 align="center">I am a transportation & logistics engineer passionate about using Operations Research to solve real-world problems.</h3>
+<h3 align="center">Supply chain advocate with four years of research and industrial experience, harnessing computational tools for logistics solutions. Expertise includes supply chain management, operations management, data analytics, machine learning and mathematical proving. Motivated researcher excelling in dynamic decision-making, communication and collaboration, seeking opportunities to advance knowledge in operations research.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5cc8f19f840b164f7c7f55fe/1237abe9-6778-4a33-8fd3-5b358a4b13d7/humanity.jpg?format=1500w">
 
 
-- 🌱 I’m currently learning **Deep learning based multi-stage optimization approaches for solving urban logistics problems.**
+- 🌱 I’m currently learning **Reinforcement learning, multi-stage optimization and multi-agent software for large-scale supply chain risk management**
 
-- 💬 Ask me about **Multi-stage optimization, transportation engineering & logistics.**
+- 💬 Ask me about **supply chain management, risk management, reinforcement learning, multi-stage optimization, multi-agent software**
 
 - 📫 How to reach me **moizahmadnust@gmail.com** & **2020msem506@student.uet.edu.pk**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I can ear wiggle, perfect to amaze friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
