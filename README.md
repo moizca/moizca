@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5cc8f19f840b164f7c7f55fe/1237abe9-6778-4a33-8fd3-5b358a4b13d7/humanity.jpg?format=1500w">
 
 
-- 🌱 I’m currently learning **Reinforcement learning, multi-stage optimization and multi-agent software for large-scale supply chain risk management**
+- 🌱 I’m currently learning **Reinforcement learning, multi-stage optimization and multi-agent software for large-scale supply chain management**
 
 - 💬 Ask me about **supply chain management, risk management, reinforcement learning, multi-stage optimization, multi-agent software**
 
